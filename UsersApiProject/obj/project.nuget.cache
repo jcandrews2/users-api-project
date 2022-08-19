@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "26ZhG6HraXfTuSt5wpRFrRetZc2RTwNIz37kxMJV1GiiM1ekx+qg/4UICzOM+GZLDMm7kxmn/9N030JqCDXPHg==",
+  "success": true,
+  "projectFilePath": "/Users/jimmy.andrews/Documents/AMU/repos/personal/UsersApiProject/UsersApiProject/UsersApiProject.csproj",
+  "expectedPackageFiles": [
+    "/Users/jimmy.andrews/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/jimmy.andrews/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/jimmy.andrews/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/jimmy.andrews/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/jimmy.andrews/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/jimmy.andrews/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
